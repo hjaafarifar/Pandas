@@ -1,0 +1,28 @@
+name,model,time,top_speed,min_speed,type
+Ferrari,LaFerrari,2015,352,0,sport
+Tesla,Model S Plaid,2021,322,0,electric
+Porsche,911 Turbo,2020,330,,sport
+BMW,M3,2022,290,0,sport
+Audi,R8,2021,330,0,sport
+Mercedes-Benz,S-Class,2023,250,,lux
+Ford,Mustang GT,2020,250,,sport
+Ford,Mustang GT,2020,250,,sport
+Chevrolet,Corvette Stingray,2021,312,0,sport
+Bugatti,Chiron,2022,420,0,super sport
+Lamborghini,Aventador SVJ,2020,350,0,sport
+Toyota,Supra,2020,250,0,sport
+Ford,Mustang GT,2020,250,,sport
+Nissan,GT-R,2021,315,0,sport
+Honda,NSX,2022,307,,sport
+McLaren,720S,2021,341,,sport
+Tesla,Model e Plaid,2021,322,0,electric
+Ford,Mustang lx,2020,250,,sport
+Rolls-Royce,Phantom,2021,250,0,lux
+Jaguar,F-Type,2020,300,0,sport
+Lexus,LC500,2021,270,0,lux
+Tesla,Model S Plaid,2021,322,0,electric
+Koenigsegg,Jesko,2021,480,0,super sport
+Pagani,Huayra,2020,370,0,super sport
+Aston Martin,DBS Superleggera,2020,340,,sport
+Tesla,Model S Plaid,2021,322,0,electric
+Bugatti,sheron,2015,490,0,super sport

@@ -1,0 +1,101 @@
+OrderID,ProductID,ProductName,Category,Price,QuantitySold,TotalSale,Date,City,PaymentMethod,CustomerID,CustomerName
+001,1001,Apple,Fruit,1.2,150,180,2024-01-01,Tehran,Credit Card,C001,Ali Rezaei
+002,1002,Banana,Fruit,0.8,200,160,2024-01-01,Shiraz,Debit Card,C002,Maryam Mohammadi
+003,1003,Carrot,Vegetable,0.5,300,150,2024-01-02,Isfahan,Cash,C003,Reza Khosravi
+004,1004,Orange,Fruit,1.5,100,150,2024-01-03,Tabriz,Mobile Pay,C004,Sara Hosseini
+005,1005,Potato,Vegetable,0.3,400,120,2024-01-04,Tehran,Credit Card,C005,Hossein Alavi
+006,1006,Milk,Dairy,1.0,120,,2024-01-05,Shiraz,Cash,C006,Leila Karimi
+007,1007,Bread,Bakery,1.8,80,144,2024-01-06,Isfahan,Debit Card,C007,Amir Mohammadi
+008,1008,Cheese,Dairy,2.5,60,150,2024-01-07,Tabriz,Mobile Pay,C008,Noor Fathi
+009,1009,Chicken,Meat,5.0,50,250,2024-01-08,Tehran,Credit Card,C009,Mehrdad Tavakol
+010,1010,Beef,Meat,6.0,30,180,2024-01-09,Shiraz,Debit Card,C010,Sima Jafari
+011,1001,Apple,Fruit,1.2,180,216,2024-01-10,Tehran,Cash,C011,Ali Rezaei
+012,1002,Banana,Fruit,0.8,220,176,2024-01-10,Shiraz,Mobile Pay,C012,Maryam Mohammadi
+013,1003,Carrot,Vegetable,0.5,320,160,2024-01-11,Isfahan,Credit Card,C013,Reza Khosravi
+014,1004,Orange,Fruit,1.5,110,165,2024-01-12,Tabriz,Debit Card,C014,Sara Hosseini
+015,1005,Potato,Vegetable,0.3,420,126,2024-01-13,Tehran,Mobile Pay,C015,Hossein Alavi
+016,1006,Milk,Dairy,1.0,130,130,2024-01-14,Shiraz,Cash,C016,Leila Karimi
+017,1007,Bread,Bakery,1.8,90,162,2024-01-15,Isfahan,Debit Card,C017,Amir Mohammadi
+018,1008,Cheese,Dairy,2.5,70,175,2024-01-16,Tabriz,Credit Card,C018,Noor Fathi
+019,1009,Chicken,Meat,5.0,60,,2024-01-17,Tehran,Cash,C019,Mehrdad Tavakol
+020,1010,Beef,Meat,6.0,35,210,2024-01-18,Shiraz,Mobile Pay,C020,Sima Jafari
+021,1001,Apple,Fruit,1.2,170,204,2024-01-19,Tehran,Credit Card,C021,Ali Rezaei
+022,1002,Banana,Fruit,0.8,210,168,2024-01-20,Shiraz,Debit Card,C022,Maryam Mohammadi
+023,1003,Carrot,Vegetable,0.5,330,165,2024-01-21,Isfahan,Cash,C023,Reza Khosravi
+024,1004,Orange,Fruit,1.5,120,180,2024-01-22,Tabriz,Mobile Pay,C024,Sara Hosseini
+025,1005,Potato,Vegetable,0.3,430,129,2024-01-23,Tehran,Credit Card,C025,Hossein Alavi
+026,1006,Milk,Dairy,1.0,140,140,2024-01-24,Shiraz,Cash,C026,Leila Karimi
+027,1007,Bread,Bakery,1.8,85,153,2024-01-25,Isfahan,Debit Card,C027,Amir Mohammadi
+028,1008,Cheese,Dairy,2.5,75,187.5,2024-01-26,Tabriz,Mobile Pay,C028,Noor Fathi
+029,1009,Chicken,Meat,5.0,55,275,2024-01-27,Tehran,Credit Card,C029,Mehrdad Tavakol
+030,1010,Beef,Meat,6.0,40,240,2024-01-28,Shiraz,Debit Card,C030,Sima Jafari
+031,1001,Apple,Fruit,1.2,160,192,2024-01-29,Tehran,Cash,C031,Ali Rezaei
+032,1002,Banana,Fruit,0.8,190,152,2024-01-30,Shiraz,Mobile Pay,C032,Maryam Mohammadi
+033,1003,Carrot,Vegetable,0.5,310,155,2024-01-31,Isfahan,Credit Card,C033,Reza Khosravi
+034,1004,Orange,Fruit,1.5,125,187.5,2024-02-01,Tabriz,Debit Card,C034,Sara Hosseini
+035,1005,Potato,Vegetable,0.3,440,132,2024-02-02,Tehran,Mobile Pay,C035,Hossein Alavi
+036,1006,Milk,Dairy,1.0,150,150,2024-02-03,Shiraz,Cash,C036,Leila Karimi
+037,1007,Bread,Bakery,1.8,95,,2024-02-04,Isfahan,Debit Card,C037,Amir Mohammadi
+038,1008,Cheese,Dairy,2.5,80,200,2024-02-05,Tabriz,Credit Card,C038,Noor Fathi
+039,1009,Chicken,Meat,5.0,65,325,2024-02-06,Tehran,Cash,C039,Mehrdad Tavakol
+040,1010,Beef,Meat,6.0,45,270,2024-02-07,Shiraz,Mobile Pay,C040,Sima Jafari
+041,1001,Apple,Fruit,1.2,190,228,2024-02-08,Tehran,Credit Card,C041,Ali Rezaei
+042,1002,Banana,Fruit,0.8,230,184,2024-02-09,Shiraz,Debit Card,C042,Maryam Mohammadi
+043,1003,Carrot,Vegetable,0.5,340,170,2024-02-10,Isfahan,Cash,C043,Reza Khosravi
+044,1004,Orange,Fruit,1.5,130,195,2024-02-11,Tabriz,Mobile Pay,C044,Sara Hosseini
+045,1005,Potato,Vegetable,0.3,450,135,2024-02-12,Tehran,Credit Card,C045,Hossein Alavi
+046,1006,Milk,Dairy,1.0,160,160,2024-02-13,Shiraz,Cash,C046,Leila Karimi
+047,1007,Bread,Bakery,1.8,100,180,2024-02-14,Isfahan,Debit Card,C047,Amir Mohammadi
+048,1008,Cheese,Dairy,2.5,85,212.5,2024-02-15,Tabriz,Mobile Pay,C048,Noor Fathi
+049,1009,Chicken,Meat,5.0,70,350,2024-02-16,Tehran,Credit Card,C049,Mehrdad Tavakol
+050,1010,Beef,Meat,6.0,50,300,2024-02-17,Shiraz,Debit Card,C050,Sima Jafari
+051,1001,Apple,Fruit,1.2,200,240,2024-02-18,Tehran,Cash,C051,Ali Rezaei
+052,1002,Banana,Fruit,0.8,240,192,2024-02-19,Shiraz,Mobile Pay,C052,Maryam Mohammadi
+053,1003,Carrot,Vegetable,0.5,350,175,2024-02-20,Isfahan,Credit Card,C053,Reza Khosravi
+054,1004,Orange,Fruit,1.5,135,202.5,2024-02-21,Tabriz,Debit Card,C054,Sara Hosseini
+055,1005,Potato,Vegetable,0.3,460,138,2024-02-22,Tehran,Mobile Pay,C055,Hossein Alavi
+056,1006,Milk,Dairy,1.0,170,170,2024-02-23,Shiraz,Cash,C056,Leila Karimi
+057,1007,Bread,Bakery,1.8,105,189,2024-02-24,Isfahan,Debit Card,C057,Amir Mohammadi
+058,1008,Cheese,Dairy,2.5,90,225,2024-02-25,Tabriz,Credit Card,C058,Noor Fathi
+059,1009,Chicken,Meat,5.0,75,375,2024-02-26,Tehran,Cash,C059,Mehrdad Tavakol
+060,1010,Beef,Meat,6.0,55,330,2024-02-27,Shiraz,Mobile Pay,C060,Sima Jafari
+061,1001,Apple,Fruit,1.2,210,252,2024-02-28,Tehran,Credit Card,C061,Ali Rezaei
+062,1002,Banana,Fruit,0.8,250,200,2024-02-29,Shiraz,Debit Card,C062,Maryam Mohammadi
+063,1003,Carrot,Vegetable,0.5,360,180,2024-03-01,Isfahan,Cash,C063,Reza Khosravi
+064,1004,Orange,Fruit,1.5,140,210,2024-03-02,Tabriz,Mobile Pay,C064,Sara Hosseini
+065,1005,Potato,Vegetable,0.3,470,141,2024-03-03,Tehran,Credit Card,C065,Hossein Alavi
+066,1006,Milk,Dairy,1.0,180,180,2024-03-04,Shiraz,Cash,C066,Leila Karimi
+067,1007,Bread,Bakery,1.8,110,198,2024-03-05,Isfahan,Debit Card,C067,Amir Mohammadi
+068,1008,Cheese,Dairy,2.5,95,237.5,2024-03-06,Tabriz,Mobile Pay,C068,Noor Fathi
+069,1009,Chicken,Meat,5.0,80,400,2024-03-07,Tehran,Credit Card,C069,Mehrdad Tavakol
+070,1010,Beef,Meat,6.0,60,360,2024-03-08,Shiraz,Debit Card,C070,Sima Jafari
+071,1001,Apple,Fruit,1.2,220,264,2024-03-09,Tehran,Cash,C071,Ali Rezaei
+072,1002,Banana,Fruit,0.8,260,208,2024-03-10,Shiraz,Mobile Pay,C072,Maryam Mohammadi
+073,1003,Carrot,Vegetable,0.5,370,185,2024-03-11,Isfahan,Credit Card,C073,Reza Khosravi
+074,1004,Orange,Fruit,1.5,150,225,2024-03-12,Tabriz,Debit Card,C074,Sara Hosseini
+075,1005,Potato,Vegetable,0.3,480,144,2024-03-13,Tehran,Mobile Pay,C075,Hossein Alavi
+076,1006,Milk,Dairy,1.0,190,190,2024-03-14,Shiraz,Cash,C076,Leila Karimi
+077,1007,Bread,Bakery,1.8,115,207,2024-03-15,Isfahan,Debit Card,C077,Amir Mohammadi
+078,1008,Cheese,Dairy,2.5,100,250,2024-03-16,Tabriz,Mobile Pay,C078,Noor Fathi
+079,1009,Chicken,Meat,5.0,85,425,2024-03-17,Tehran,Credit Card,C079,Mehrdad Tavakol
+080,1010,Beef,Meat,6.0,65,390,2024-03-18,Shiraz,Debit Card,C080,Sima Jafari
+081,1001,Apple,Fruit,1.2,230,276,2024-03-19,Tehran,Credit Card,C081,Ali Rezaei
+082,1002,Banana,Fruit,0.8,270,216,2024-03-20,Shiraz,Debit Card,C082,Maryam Mohammadi
+083,1003,Carrot,Vegetable,0.5,380,190,2024-03-21,Isfahan,Cash,C083,Reza Khosravi
+084,1004,Orange,Fruit,1.5,160,240,2024-03-22,Tabriz,Mobile Pay,C084,Sara Hosseini
+085,1005,Potato,Vegetable,0.3,490,147,2024-03-23,Tehran,Credit Card,C085,Hossein Alavi
+086,1006,Milk,Dairy,1.0,200,200,2024-03-24,Shiraz,Cash,C086,Leila Karimi
+087,1007,Bread,Bakery,1.8,120,216,2024-03-25,Isfahan,Debit Card,C087,Amir Mohammadi
+088,1008,Cheese,Dairy,2.5,105,262.5,2024-03-26,Tabriz,Mobile Pay,C088,Noor Fathi
+089,1009,Chicken,Meat,5.0,90,450,2024-03-27,Tehran,Credit Card,C089,Mehrdad Tavakol
+090,1010,Beef,Meat,6.0,70,420,2024-03-28,Shiraz,Debit Card,C090,Sima Jafari
+091,1001,Apple,Fruit,1.2,240,288,2024-03-29,Tehran,Cash,C091,Ali Rezaei
+092,1002,Banana,Fruit,0.8,280,224,2024-03-30,Shiraz,Mobile Pay,C092,Maryam Mohammadi
+093,1003,Carrot,Vegetable,0.5,390,195,2024-03-31,Isfahan,Credit Card,C093,Reza Khosravi
+094,1004,Orange,Fruit,1.5,170,255,2024-04-01,Tabriz,Debit Card,C094,Sara Hosseini
+095,1005,Potato,Vegetable,0.3,500,150,2024-04-02,Tehran,Mobile Pay,C095,Hossein Alavi
+096,1006,Milk,Dairy,1.0,210,210,2024-04-03,Shiraz,Cash,C096,Leila Karimi
+097,1007,Bread,Bakery,1.8,125,225,2024-04-04,Isfahan,Debit Card,C097,Amir Mohammadi
+098,1008,Cheese,Dairy,2.5,110,275,2024-04-05,Tabriz,Mobile Pay,C098,Noor Fathi
+099,1009,Chicken,Meat,5.0,95,475,2024-04-06,Tehran,Credit Card,C099,Mehrdad Tavakol
+100,1010,Beef,Meat,6.0,75,450,2024-04-07,Shiraz,Debit Card,C100,Sima Jafari
